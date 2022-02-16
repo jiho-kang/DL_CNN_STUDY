@@ -7,5 +7,6 @@
 - Keras Framework
   - Sequential API, Functional API, Callback(ModelCheckpoint, ReduceLROnPlateau, EarlyStopping)
 - CNN
-  - Kernel, FEature Map, Stride, Padding, Pooling
+  - Kernel, Feature Map, Stride, Padding, Pooling
   - Weight Initailization, Batch Normalization, Shuffle, Global Average Pooling, Weight Regularization
+- Augmentation

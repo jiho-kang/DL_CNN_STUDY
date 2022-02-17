@@ -10,3 +10,12 @@
   - Kernel, Feature Map, Stride, Padding, Pooling
   - Weight Initailization, Batch Normalization, Shuffle, Global Average Pooling, Weight Regularization
 - Augmentation
+  - Keras ImageDataGenerator => flow
+  - Preprocessing
+  - Albumentations
+- Pretrained Model
+  - AlexNet
+  - VGG
+  - GoogLeNet (Inception)
+  - ResNet
+  - EfficientNet
